@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @batuefeq
-- 👀 I’m interested in unreal engine and making games
-- 🌱 I’m currently learning unreal engine
-- 💞️ I’m looking to collaborate on unreal engine and on python
+- 🌱 I’m currently making games on unity
+- 
 - 📫 How to reach me by discord; Batu#1434, by mail;batuhanarialp@hotmail.com, 
 
 <!---
